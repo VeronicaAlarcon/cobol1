@@ -1,0 +1,4 @@
+            05 WSS-NUM  PIC X(10).
+            05 WSS-I    PIC 9(2).
+            05 WSS-CONT PIC 9(2).
+            05 WSS-POS  PIC 9(2).
